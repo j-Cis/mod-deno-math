@@ -1,10 +1,6 @@
 {
   "name": "@j-Cis/mod-deno-math",
   "version": "0.0.1",
-  "imports": {
-    "/": "./",
-    "./": "./"
-  },
   "exports": "./mod.ts",
   "fmt": {
     "semiColons": false
